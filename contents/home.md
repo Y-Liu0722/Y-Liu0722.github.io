@@ -1,6 +1,6 @@
 
 
-[![Y-Liu0722](https://img.shields.io/badge/Y-Liu0722-github-blue?logo=github)](https://github.com/Y-Liu0722)
+[Google Scholar](https://scholar.google.com/citations?user=a2zL6IgAAAAJ&hl=zh-CN)
 
 I's currently a Master's student in Computer Science and Technology at ShanghaiTech University, supervised by Prof. Liang Feng Zhang.
 
@@ -10,7 +10,7 @@ Email: liuyang12022[at]shanghaitech.edu.cn
 
 #### Education
 M.E., Computer Science and Technology, ShanghaiTech University, 2022.09—2026.07\
-B.E., Computer Science and Technology, Harbin Engineering University, 2018—2022.
+B.E., Computer Science and Technology, Harbin Engineering University, 2018.09—2022.06
 
 #### Research Interests
 Applied Cryptography, Secure Multi-party Computation, Verifiable Computation, Zero-Knowledge Proofs.
