@@ -1,7 +1,5 @@
 
 
-[Google Scholar](https://scholar.google.com/citations?user=a2zL6IgAAAAJ)
-
 I's currently a Master's student in Computer Science and Technology at ShanghaiTech University, supervised by Prof. Liang Feng Zhang.
 
 #### Contact
