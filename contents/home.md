@@ -6,7 +6,9 @@ I'm currently a Ph.D. student in Computer Science at Bocconi University, supervi
 #### Education
 
 Ph.D., Computer Science, Bocconi University, 2026.09—Present
+
 M.E., Computer Science and Technology, ShanghaiTech University, 2022.09—2026.07
+
 B.E., Computer Science and Technology, Harbin Engineering University, 2018.09—2022.06
 
 #### Research Interests
