@@ -1,7 +1,7 @@
 
 [<i class="bi bi-google"></i> Google Scholar](https://scholar.google.com/citations?user=a2zL6IgAAAAJ) | [<i class="bi bi-envelope-fill"></i> Email](mailto:yang.liu2@phd.unibocconi.it)
 
-I'm currently a Ph.D. student in Computer Science at Bocconi University, supervised by Prof. Emmanuela Orsini. Previously, I obtained my Master's degree in Computer Science and Technology from ShanghaiTech University, where I was supervised by Prof. Liang Feng Zhang.
+I'm currently a Ph.D. student in Computer Science at Bocconi University, supervised by Prof. [Emmanuela Orsini](https://cseao.github.io/). Previously, I obtained my Master's degree in Computer Science and Technology from ShanghaiTech University, where I was supervised by Prof. Liang Feng Zhang.
 
 #### Education
 
